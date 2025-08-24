@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe", 
+    "email": "john.doe@example.com",
+    "phone": 1234567890,
+    "bio": "Software developer"
+  },
+  {
+    "id": "2", 
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com", 
+    "phone": 9876543210,
+    "bio": "Product manager"
+  },
+  {
+    "id": "3",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "phone": 5555555555,
+    "bio": "UI/UX designer"
+  }
+]
